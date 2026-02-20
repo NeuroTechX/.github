@@ -30,14 +30,6 @@ NeuroTechX is a volunteer-led non-profit bridging the gap between academic neuro
 - **Education** — The [NeuroTech Primer](https://neurotechx.com/education), NeuroTechEDU tutorials, and industry webinars from g.tec, Interaxon, Neuroelectrics, and more
 - **Professional Development** — A [jobs board](https://neurotechx.com/jobs), the [Neurotech Micro-credential Program](https://neurotechmicrocreds.com/) at Queen's University, and global hackathons via [Brainhack](https://brainhack.org/)
 
-<div align="center">
-
-| 30+ | 17,000+ | 9,500+ | 275+ |
-|:---:|:---:|:---:|:---:|
-| City Chapters | Local Members | Slack Members | Events Organized |
-
-</div>
-
 ---
 
 ## Featured Projects
