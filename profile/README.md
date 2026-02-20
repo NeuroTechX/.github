@@ -27,8 +27,8 @@ Founded in 2015 in Montréal — now spanning 30+ cities worldwide.
 NeuroTechX is a volunteer-led non-profit bridging the gap between academic neuroscience and the hands-on world of technology. We advance neurotechnology through three pillars:
 
 - **Community** — 30+ city chapters, 17,000+ local members, and a 9,500+ member Slack connecting researchers, engineers, students, and enthusiasts worldwide
-- **Education** — The [NeuroTech Primer](https://neurotechx.com/education), NeuroTechEDU tutorials, industry webinars from g.tec, Interaxon, Neuroelectrics, and more, plus the [FUS Forward podcast](https://podcasts.apple.com/us/podcast/fus-forward/id1857021050)
-- **Professional Development** — A [jobs board](https://neurotechx.com/jobs), the [PURSUE](https://pursue.richmond.edu/) undergraduate research program, the [Neurotech Micro-credential Program](https://neurotechmicrocreds.com/) at Queen's University, and global hackathons via [Brainhack](https://brainhack.org/)
+- **Education** — The [NeuroTech Primer](https://neurotechx.com/education), NeuroTechEDU tutorials, and industry webinars from g.tec, Interaxon, Neuroelectrics, and more
+- **Professional Development** — A [jobs board](https://neurotechx.com/jobs), the [Neurotech Micro-credential Program](https://neurotechmicrocreds.com/) at Queen's University, and global hackathons via [Brainhack](https://brainhack.org/)
 
 <div align="center">
 
