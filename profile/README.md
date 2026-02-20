@@ -10,7 +10,7 @@
 
 Founded in 2015 in Montréal — now spanning 30+ cities worldwide.
 
-[![Website](https://img.shields.io/badge/neurotechx.org-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neurotechx.org)
+[![Website](https://img.shields.io/badge/neurotechx.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neurotechx.com)
 [![Twitter/X](https://img.shields.io/badge/@neurotechx-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/neurotechx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/neurotechx)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/neurotechx)
@@ -102,12 +102,8 @@ We surface community neurotech tools on our [projects page](https://neurotechx.o
 
 | Program | Description |
 |---|---|
-| [**PURSUE**](https://pursue.richmond.edu/) | Preparing Undergraduates for Research in STEM Using Electrophysiology — open materials and datasets |
-| [**Neurotech Micro-credential**](https://neurotechmicrocreds.com/) | Hands-on neurotechnology certification program, grant-funded in partnership with Queen's University |
-| [**Many Analysts**](https://www.coscience-personality.com/manyanalysts) | Collaborative project investigating how different analysis pipelines affect results in personality neuroscience |
-| [**Brainhack**](https://brainhack.org/) | Annual distributed global hackathon — build the future of neurotech, together |
-| [**FUS Forward**](https://podcasts.apple.com/us/podcast/fus-forward/id1857021050) | Podcast exploring advancements in focused ultrasound with host Charles Caskey |
-| [**Content Lab**](https://medium.com/neurotechx) | Community-authored articles, reports, and deep dives on neurotech trends |
+| [**Neurotech Micro-credential Program**](https://neurotechmicrocreds.com/) | Hands-on neurotechnology certification program, grant-funded in partnership with Queen's University |
+| [**NeuroTechX Content Laboratory**](https://medium.com/neurotechx) | Community-authored articles, reports, and deep dives on neurotech trends |
 
 ---
 
