@@ -10,7 +10,7 @@
 
 Founded in 2015 in Montréal — now spanning 30+ cities worldwide.
 
-[![Website](https://img.shields.io/badge/neurotechx.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neurotechx.com)
+[![Website](https://img.shields.io/badge/neurotechx.org-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neurotechx.org)
 [![Twitter/X](https://img.shields.io/badge/@neurotechx-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/neurotechx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/neurotechx)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/neurotechx)
@@ -27,8 +27,8 @@ Founded in 2015 in Montréal — now spanning 30+ cities worldwide.
 NeuroTechX is a volunteer-led non-profit bridging the gap between academic neuroscience and the hands-on world of technology. We advance neurotechnology through three pillars:
 
 - **Community** — 30+ city chapters, 17,000+ local members, and a 9,500+ member Slack connecting researchers, engineers, students, and enthusiasts worldwide
-- **Education** — The [NeuroTech Primer](https://neurotechx.com/education), NeuroTechEDU tutorials, and industry webinars from g.tec, Interaxon, Neuroelectrics, and more
-- **Professional Development** — A [jobs board](https://neurotechx.com/jobs), the [Neurotech Micro-credential Program](https://neurotechmicrocreds.com/) at Queen's University, and global hackathons via [Brainhack](https://brainhack.org/)
+- **Education** — The [NeuroTech Primer](https://neurotechx.org/education), NeuroTechEDU tutorials, and industry webinars from g.tec, Interaxon, Neuroelectrics, and more
+- **Professional Development** — A [jobs board](https://neurotechx.org/jobs), the [Neurotech Micro-credential Program](https://neurotechmicrocreds.com/) at Queen's University, and global hackathons via [Brainhack](https://brainhack.org/)
 
 ---
 
@@ -77,12 +77,12 @@ Classic EEG paradigms (P300, SSVEP, N170, and more) in Python and Jupyter, built
 </td>
 <td width="50%" valign="top">
 
-### 💡 [Add Your Project](https://neurotechx.com/projects)
+### 💡 [Add Your Project](https://neurotechx.org/projects)
 
-We surface community neurotech tools on our [projects page](https://neurotechx.com/projects). Tag your GitHub repository with **`neurotechx`** to get listed automatically.
+We surface community neurotech tools on our [projects page](https://neurotechx.org/projects). Tag your GitHub repository with **`neurotechx`** to get listed automatically.
 
 [![View All Repos](https://img.shields.io/badge/View_All_Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/NeuroTechX/repositories)
-[![Projects Page](https://img.shields.io/badge/Community_Projects-neurotechx.com-0A66C2?style=flat-square)](https://neurotechx.com/projects)
+[![Projects Page](https://img.shields.io/badge/Community_Projects-neurotechx.org-0A66C2?style=flat-square)](https://neurotechx.org/projects)
 
 </td>
 </tr>
@@ -113,9 +113,9 @@ Stay up to date with NeuroTechX events at **[luma.com/neurotechx](https://lu.ma/
 
 NeuroTechX supports university chapters worldwide. Current featured clubs:
 
-[NeuroTech Berkeley](https://neurotech.berkeley.edu) · [NeuroTechSC](https://neurotechsc.com) · [MINT @ Michigan](https://mint.engin.umich.edu/) · [Polycortex @ Polytechnique Montréal](http://polycortex.polymtl.ca/) · [Synapse @ McGill](https://neurotechx.com/students)
+[NeuroTech Berkeley](https://neurotech.berkeley.edu) · [NeuroTechSC](https://neurotechsc.com) · [MINT @ Michigan](https://mint.engin.umich.edu/) · [Polycortex @ Polytechnique Montréal](http://polycortex.polymtl.ca/) · [Synapse @ McGill](https://neurotechx.org/students)
 
-Want to start or list your club? Visit [neurotechx.com/students](https://neurotechx.com/students).
+Want to start or list your club? Visit [neurotechx.org/students](https://neurotechx.org/students).
 
 ---
 
@@ -125,10 +125,10 @@ Want to start or list your club? Visit [neurotechx.com/students](https://neurote
 |---|---|
 | **Join the Slack** | Connect with 9,500+ members → [Apply here](https://docs.google.com/forms/d/e/1FAIpQLSfZyzhVdOLU8_oQ4NylHL8EFoKLIVmryGXA4u7HDsZpkTryvg/viewform) |
 | **Contribute Code** | Browse [open issues](https://github.com/issues?q=org%3ANeuroTechX+is%3Aopen) and submit pull requests |
-| **Find a Chapter** | Meet local neurotech enthusiasts at [neurotechx.com/community](https://neurotechx.com/community) |
+| **Find a Chapter** | Meet local neurotech enthusiasts at [neurotechx.org/community](https://neurotechx.org/community) |
 | **Submit Resources** | Add datasets, papers, or tools to [awesome-bci](https://github.com/NeuroTechX/awesome-bci) |
-| **Tag Your Repo** | Add the `neurotechx` topic to your GitHub repo to appear on our [projects page](https://neurotechx.com/projects) |
-| **Support Us** | NeuroTechX is a non-profit — [donate](https://neurotechx.com/donate) to keep resources free and open |
+| **Tag Your Repo** | Add the `neurotechx` topic to your GitHub repo to appear on our [projects page](https://neurotechx.org/projects) |
+| **Support Us** | NeuroTechX is a non-profit — [donate](https://neurotechx.org/donate) to keep resources free and open |
 
 ---
 
@@ -136,8 +136,8 @@ Want to start or list your club? Visit [neurotechx.com/students](https://neurote
 
 **Built with 🧠 by volunteers worldwide since 2015**
 
-[![Code of Conduct](https://img.shields.io/badge/Code_of_Conduct-Contributor_Covenant_2.1-4baaaa?style=flat-square)](https://neurotechx.com/code-of-conduct)
-[![Non-Profit](https://img.shields.io/badge/Non--Profit-Open_Science-brightgreen?style=flat-square)](https://neurotechx.com/transparency)
+[![Code of Conduct](https://img.shields.io/badge/Code_of_Conduct-Contributor_Covenant_2.1-4baaaa?style=flat-square)](https://neurotechx.org/code-of-conduct)
+[![Non-Profit](https://img.shields.io/badge/Non--Profit-Open_Science-brightgreen?style=flat-square)](https://neurotechx.org/transparency)
 [![Merch](https://img.shields.io/badge/Merch_Store-grey?style=flat-square&logo=cotton)](https://neurotechx-store.creator-spring.com/)
 
 *Also find us on [Facebook](https://www.facebook.com/neurotechx)*
